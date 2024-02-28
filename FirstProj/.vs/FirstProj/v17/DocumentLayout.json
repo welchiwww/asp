@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "FirstProj\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:48:02.407Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -77,14 +64,14 @@
               "RelativeDocumentMoniker": "FirstProj\\Repositories\\UsersRepository.cs",
               "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Repositories\\UsersRepository.cs",
               "RelativeToolTip": "FirstProj\\Repositories\\UsersRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAQwDUAAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T15:43:43.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Abstractions\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "FirstProj\\Abstractions\\IUsersRepository.cs",
@@ -97,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Models\\User.cs",
               "RelativeDocumentMoniker": "FirstProj\\Models\\User.cs",
@@ -105,12 +92,11 @@
               "RelativeToolTip": "FirstProj\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:44:10.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:44:10.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FirstProj\\Views\\Shared\\_Layout.cshtml",
@@ -118,12 +104,11 @@
               "RelativeToolTip": "FirstProj\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T15:32:33.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:32:33.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Program.cs",
               "RelativeDocumentMoniker": "FirstProj\\Program.cs",
@@ -131,12 +116,11 @@
               "RelativeToolTip": "FirstProj\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:27:01.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:27:01.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "FirstProj\\Views\\Users\\Delete.cshtml",
@@ -144,12 +128,11 @@
               "RelativeToolTip": "FirstProj\\Views\\Users\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T16:18:38.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T16:18:38.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstProj\\Views\\Users\\Index.cshtml",
@@ -157,12 +140,11 @@
               "RelativeToolTip": "FirstProj\\Views\\Users\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T15:48:14.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:48:14.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "InfoController.cs",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\InfoController.cs",
               "RelativeDocumentMoniker": "FirstProj\\Controllers\\InfoController.cs",
@@ -175,7 +157,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FirstProj\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:48:02.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Info.cs",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Models\\Info.cs",
               "RelativeDocumentMoniker": "FirstProj\\Models\\Info.cs",
@@ -183,8 +177,7 @@
               "RelativeToolTip": "FirstProj\\Models\\Info.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:37:28.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:37:28.624Z"
             },
             {
               "$type": "Document",
@@ -196,8 +189,7 @@
               "RelativeToolTip": "FirstProj\\Views\\Info\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T15:31:51.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:31:51.996Z"
             }
           ]
         }

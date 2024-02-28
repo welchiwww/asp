@@ -34,6 +34,15 @@ namespace FirstProj.Repositories
                     {
                         Description = "Description 3"
                     }
+                },
+                new User
+                {
+                    Name = "User4",
+                    Email = "Email4",
+                    Info = new Info
+                    {
+                        Description = "Description 4"
+                    }
                 }
             };
         public UsersRepository() 

@@ -16,9 +16,10 @@ namespace FirstProj.Controllers
             return View(result);
         }
 
-        public IActionResult Delete()
+        [HttpPost]
+        public IActionResult Delete(string userToDelete)
         {
-            var result = _usersRepository.DeleteUser("User1");
+            var result = _usersRepository.DeleteUser(userToDelete);
             return RedirectToAction("Index");
         }
     }

@@ -45,9 +45,6 @@ namespace FirstProj.Repositories
                     }
                 }
             };
-        public UsersRepository() 
-        { 
-        }
 
         public List<User> GetUsers() 
         {

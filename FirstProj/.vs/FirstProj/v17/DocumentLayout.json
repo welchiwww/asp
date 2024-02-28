@@ -7,32 +7,48 @@
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\repositories\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\repositories\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\abstractions\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\abstractions\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\infocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|d:\\asp\\firstproj\\firstproj\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74E5EDF0-9AD3-44ED-8831-08883580F518}|FirstProj\\FirstProj.csproj|solutionrelative:firstproj\\views\\info\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,46 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersRepository.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Repositories\\UsersRepository.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Repositories\\UsersRepository.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Repositories\\UsersRepository.cs",
-              "RelativeToolTip": "FirstProj\\Repositories\\UsersRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:43:43.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUsersRepository.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Abstractions\\IUsersRepository.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Abstractions\\IUsersRepository.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Abstractions\\IUsersRepository.cs",
-              "RelativeToolTip": "FirstProj\\Abstractions\\IUsersRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:56:03.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Models\\User.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Models\\User.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Models\\User.cs",
-              "RelativeToolTip": "FirstProj\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:44:10.865Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -90,9 +68,35 @@
               "RelativeDocumentMoniker": "FirstProj\\Program.cs",
               "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Program.cs",
               "RelativeToolTip": "FirstProj\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-28T15:27:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Controllers\\CarController.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\CarController.cs",
+              "RelativeToolTip": "FirstProj\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:10:03.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FirstProj\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T19:56:17.325Z",
               "EditorCaption": ""
             },
             {
@@ -103,46 +107,113 @@
               "RelativeDocumentMoniker": "FirstProj\\Controllers\\InfoController.cs",
               "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\InfoController.cs",
               "RelativeToolTip": "FirstProj\\Controllers\\InfoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:31:08.506Z"
+              "WhenOpened": "2024-02-28T15:31:08.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "FirstProj\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstProj\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:48:02.407Z",
+              "WhenOpened": "2024-02-28T19:50:18.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICarsRepository.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Abstractions\\ICarsRepository.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Abstractions\\ICarsRepository.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Abstractions\\ICarsRepository.cs",
+              "RelativeToolTip": "FirstProj\\Abstractions\\ICarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:10:21.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsRepository.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Repositories\\CarsRepository.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Repositories\\CarsRepository.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Repositories\\CarsRepository.cs",
+              "RelativeToolTip": "FirstProj\\Repositories\\CarsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:02:40.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Info.cs",
-              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Models\\Info.cs",
-              "RelativeDocumentMoniker": "FirstProj\\Models\\Info.cs",
-              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Models\\Info.cs",
-              "RelativeToolTip": "FirstProj\\Models\\Info.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "FirstProj\\Models\\Car.cs",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Models\\Car.cs",
+              "RelativeToolTip": "FirstProj\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:37:28.624Z"
+              "WhenOpened": "2024-02-28T20:01:45.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FirstProj\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FirstProj\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T19:52:26.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Info\\Index.cshtml",
               "RelativeDocumentMoniker": "FirstProj\\Views\\Info\\Index.cshtml",
               "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Views\\Info\\Index.cshtml",
               "RelativeToolTip": "FirstProj\\Views\\Info\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-28T15:31:51.996Z",
+              "WhenOpened": "2024-02-28T19:57:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstProj\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FirstProj\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T19:52:08.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\asp\\FirstProj\\FirstProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FirstProj\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\asp\\FirstProj\\FirstProj\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FirstProj\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-28T19:42:44.24Z",
               "EditorCaption": ""
             }
           ]

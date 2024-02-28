@@ -28,3 +28,4 @@ D:\asp\FirstProj\FirstProj\obj\Debug\net8.0\refint\FirstProj.dll
 D:\asp\FirstProj\FirstProj\obj\Debug\net8.0\FirstProj.pdb
 D:\asp\FirstProj\FirstProj\obj\Debug\net8.0\FirstProj.genruntimeconfig.cache
 D:\asp\FirstProj\FirstProj\obj\Debug\net8.0\ref\FirstProj.dll
+D:\asp\FirstProj\FirstProj\obj\Debug\net8.0\FirstProj.sourcelink.json
